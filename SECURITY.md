@@ -1,4 +1,4 @@
-# Security Policy
+# السياسة الأمنية.
 
 Please do not open GitHub issues or pull requests - this makes the problem immediately visible to everyone, including malicious actors. Security issues in the SDK can be safely reported via Facebook's Whitehat Bug Bounty program:
 

@@ -1,36 +1,36 @@
-Facebook SDK for Android
+الفيسبوك SDK لالروبوت
 ========================
-[![Run testsuite with gradle](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml/badge.svg)](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk)
+[![تشغيل Testsuite مع Gradle.](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml/badge.svg)](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml)
+[![مافن سنترال.](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk)
 
 This library allows you to integrate Facebook into your Android app.
 
 Learn more about the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at https://developers.facebook.com/docs/android
 
-:wave: The SDK team is eager to learn from you! Fill out [this survey](https://facebook.co1.qualtrics.com/jfe/form/SV_2hJ13Imkq1YF9Sm?TrackID=GitHub) to tell us what’s most important to you and how we can improve.
+   :الموجة:  فريق SDK حريص على التعلم منك! املأ.     [هذا المسح.](https://facebook.co1.qualtrics.com/jfe/form/SV_2hJ13Imkq1YF9Sm?TrackID=GitHub)   "لإخبارنا ما هو الأكثر أهمية بالنسبة لك وكيف يمكننا تحسينه". 
 
-TRY IT OUT
+جربها!
 ----------
-1. Check-out the tutorials available online at https://developers.facebook.com/docs/android/getting-started
-2. Start coding! Visit https://developers.facebook.com/docs/android/ for tutorials and reference documentation.
+1.  تحقق من الدروس المتاحة على الانترنت في https://developers.facebook.com/docs/android/getting-started
+2.  ابدأ الترميز! زيارة https://developers.facebook.com/docs/android/ للحصول على الدروس والوثائق المرجعية.
 
-FEATURES
+الميزات
 --------
-* [Login](https://developers.facebook.com/docs/facebook-login)
-* [Sharing](https://developers.facebook.com/docs/sharing)
-* [Messenger](https://developers.facebook.com/docs/messenger-expressions)
-* [App Links](https://developers.facebook.com/docs/applinks)
-* [Analytics](https://developers.facebook.com/docs/analytics)
-* [Graph API](https://developers.facebook.com/docs/android/graph)
-* [Marketing](https://developers.facebook.com/docs/app-events/marketing-kit)
+* [تسجيل الدخول.](https://developers.facebook.com/docs/facebook-login)
+* [تقاسم](https://developers.facebook.com/docs/sharing)
+* [ماسنجر.](https://developers.facebook.com/docs/messenger-expressions)
+* [روابط التطبيق.](https://developers.facebook.com/docs/applinks)
+* [تحليلات؟](https://developers.facebook.com/docs/analytics)
+* [الرسم البياني API](https://developers.facebook.com/docs/android/graph)
+* [التسويق.](https://developers.facebook.com/docs/app-events/marketing-kit)
 
-STRUCTURE
+الهيكل.
 ---------
-The SDK is separated into modules with the following structure.
+يتم فصل SDK إلى وحدات مع الهيكل التالي.
 
     +----------------------------------------------------+
-    |                                                    |
-    | Facebook-android-sdk                               |
+    | |
+    | Facebook-Android-sdk |
     |                                                    |
     +----------------------------------------------------+
     +----------+ +----------+ +------------+ +-----------+
